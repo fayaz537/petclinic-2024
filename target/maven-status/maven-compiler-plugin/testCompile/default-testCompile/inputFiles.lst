@@ -1,0 +1,11 @@
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetclinicIntegrationTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+/opt/petclinic-2024/petclinic-2024/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
